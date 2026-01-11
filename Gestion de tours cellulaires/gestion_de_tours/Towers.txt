@@ -1,0 +1,4 @@
+3
+1;Paris;1800
+2;Marseille;900
+52;Tunis;100

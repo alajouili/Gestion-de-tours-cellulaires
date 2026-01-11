@@ -1,0 +1,14 @@
+# Fichiers compilés
+*.o
+*.exe
+*.out
+*.app
+
+# Fichiers temporaires et système
+.DS_Store
+Thumbs.db
+
+# Configuration IDE (optionnel mais recommandé)
+.vscode/
+.idea/
+*.swp
